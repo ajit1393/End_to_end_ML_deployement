@@ -14,7 +14,7 @@ def get_requirements()->List[str]:
     return requirement_list    
 
 setup(name='insurance',
-      version='0.0.1',
+      version='0.0.2',
       description='insurance premium prediction project',
       author='ajit khandale',
       author_email='khandaleajit@gmail.com',
